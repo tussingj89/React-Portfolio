@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "name": "What's for dinner",
+      "image": "assets/api.png",
+      "description": "a web page using api calls to find whats for dinner, what to drink, and tell a joke.",
+      "technologies":  "Made with:  HTML, CSS, JavaScript, Ajax, and GitHub Pages.",
+      "tryLink": "https://devoyno.github.io/food_drinks_jokes/",
+      "repository":  "https://github.com/Devoyno/food_drinks_jokes"
+    },
+    {
+      "id": 4,
+      "name": "Weather Dashboard",
+      "image": "assets/weather.png",
+      "description": "a web page that uses api calls to find the weather of the city and tell you the 5 day forcaste.",
+      "technologies": "Made with:  HTML, CSS, JavaScript, jQuery, Bootstrap, OpenWeather API, Moment.js, and GitHub Pages.",
+      "tryLink": "https://tussingj89.github.io/weather-api",
+      "repository": "https://github.com/tussingj89/weather-api"
+    },
+    {
+      "id": 5,
+      "name": "Day planner",
+      "image": "assets/planner.png",
+      "description": "a web page to help schedule your work day by the hour with color coding to tell you past, present, and future events",
+      "technologies": "Made with:  HTML, CSS, JavaScript, jQuery, and GitHub Pages.",
+      "tryLink": "https://tussingj89.github.io/day-planner",
+      "repository": "https://github.com/tussingj89/day-planner"
+    },
+    {
+      "id": 10,
+      "name": "burger logger",
+      "image": "assets/burger.png",
+      "description": "a web page that uses MySQL, Node, Express, Handlebars, and ORM to create a fun web page to log and list different hamburgers.",
+      "technologies": "Made with:  HTML, CSS, JavaScript, Bootstrap, Express, mySQL, Handlebars, Node.js, and Heroku.",
+      "tryLink": "https://polar-island-36106.herokuapp.com/",
+      "repository": "https://github.com/tussingj89/burger"
+    },
+    {
+      "id": 13,
+      "name": "Gaming Dashboard",
+      "image": "assets/GD.png",
+      "description": "a web page where the user can store and edit their reviews of gaming. As well as see other users reviews of games.",
+      "technologies": "Made with:  HTML, CSS, JavaScript, Bootstrap, Express, mySQL, Handlebars, Node.js, and Heroku.",
+      "tryLink": "https://gaming-dashboard.herokuapp.com/",
+      "repository": "https://github.com/tussingj89/gaming-dashboard"
+    }
+  ]

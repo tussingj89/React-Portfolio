@@ -1,0 +1,80 @@
+/* all pages  */
+body {
+    background-color: grey;
+    background-image: url("assets/background.png");
+    background-size: cover;
+}
+.navbar-brand {
+    float: left;
+    width: 250px;
+    height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    text-align: center;
+    background: #4aaaa5;
+}
+.nav-item {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 90px;
+    text-align: center;
+}
+    
+.container {
+    background-color: white;
+}
+/* profile page  */
+article {
+    font-size: large;
+}
+.social {
+    width: 62px;
+    height: 62px;
+    margin-top: 8px;
+    margin-right: 5px;
+  }
+#profile {
+    width: 200px;
+    height: 200px;
+    margin: 15px;
+}
+/* contact page  */
+.input{
+    width: 400px;
+}
+/* protfolio page  */
+#images {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+}
+#copyright {
+    text-align: center;
+    background-color: white;
+    /* position: absolute; */
+    bottom: 10px;
+    width: 100%;
+
+
+}
+
+@media (max-width: 768px) {
+    .nav-item {
+        font-size: 10px;
+        font-weight: 700;
+        line-height: 200px;
+        text-align: center;
+    }
+    .container{
+        height: min-content;
+    }
+    #portfolio {
+    width: 100%;
+    margin: auto;
+    }
+    .wrapper {
+    width: 100%;
+    }
+}
