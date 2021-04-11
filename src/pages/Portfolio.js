@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Card from './../components/Card';
 import projects from './../resumeData.json';
 
+
 class Portfolio extends Component {
   // keep track of project data
   state = {
@@ -12,7 +13,8 @@ class Portfolio extends Component {
     // map through project data and create a Bootstrap card for each project
     const projectsArr = this.state.projects;
     const newProjectsArr = projectsArr.map((project) => 
-      <Card 
+      <Card
+        key = {project.id}
         id={project.id}
         name={project.name}
         image={project.image}

@@ -15,7 +15,7 @@ const About = () => {
                         <blockquote className="blockquote mb-0">
                             <div className="row">
                                 <div className="col-md-3">
-                                <img src="/assets/photo.jpg" alt="profile" id="profile"></img>
+                                <img src="./public/assets/photo.jpg" alt="profile" id="profile"></img>
                                 </div>
 
                                 <div className="col-md-8">

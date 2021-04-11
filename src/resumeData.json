@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "What's for dinner",
-      "image": "assets/api.png",
+      "image": "./public/api.png",
       "description": "a web page using api calls to find whats for dinner, what to drink, and tell a joke.",
       "technologies":  "Made with:  HTML, CSS, JavaScript, Ajax, and GitHub Pages.",
       "tryLink": "https://devoyno.github.io/food_drinks_jokes/",
