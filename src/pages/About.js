@@ -1,4 +1,5 @@
 import React from "react";
+import photo from "../assets/photo.jpg"
 
 const About = () => {
     return (
@@ -15,7 +16,7 @@ const About = () => {
                         <blockquote className="blockquote mb-0">
                             <div className="row">
                                 <div className="col-md-3">
-                                <img src="./public/assets/photo.jpg" alt="profile" id="profile"></img>
+                                <img src={photo} alt="profile" id="profile"></img>
                                 </div>
 
                                 <div className="col-md-8">
