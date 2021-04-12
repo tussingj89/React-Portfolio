@@ -32,7 +32,7 @@
   <img src="/public/assets/samplecode.png" alt="React-Portfolio"/>
 
   ## Screenshots
-  <img src="/public/assets/screenshot.png" alt="React-Portfolio"/>
+  <img src="/public/assets/snapshot.png" alt="React-Portfolio"/>
 
   ## License
   MIT License - see the [LICENSE.txt](https://github.com/tussingj89/React-Portfolio/blob/main/LICENSE.txt) file for details
